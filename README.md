@@ -33,16 +33,16 @@ Your objectives for the day is to:
 - [ ] Read [Javascript Objects in Detail](http://javascriptissexy.com/javascript-objects-in-detail/)
 - [ ] Read pages 173 to 184 in [Professional JS for Web Developers][projs]
 - [ ] Signup for a free Team Treehouse trial and complete their [Object Oriented Javascript Course] (https://teamtreehouse.com/library/objectoriented-javascript)
-- [ ] Skim this [cheat sheet][cheat]
+- [x] Skim this [cheat sheet][cheat]
 
 ### This
 
-- [ ] Watch these videos:
+- [x] Watch these videos:
   - https://shereef.wistia.com/medias/wfybhl2nmr
   - https://shereef.wistia.com/medias/kqbedkmm13
 - [ ] Read [Undrestanding Javascrpt's This with Clarity and Mastery](http://javascriptissexy.com/understand-javascripts-this-with-clarity-and-master-it/)
 - [ ] Read [What is this in Javascript](http://www.code-sample.com/2015/06/what-is-this-in-javascript.html)
-- [ ] Complete the [Keyword "this" lesson][udacity]
+- [x] Complete the [Keyword "this" lesson][udacity]
 
 ### Stretch
 
@@ -51,7 +51,7 @@ Your objectives for the day is to:
 
 ## Day 3: Prototype and Inheritance
 
-- [ ] Watch these videos on Prototypes:
+- [x] Watch these videos on Prototypes:
   - https://shereef.wistia.com/medias/a5m8nwq4su
   - https://shereef.wistia.com/medias/ednchu35gz
   - https://shereef.wistia.com/medias/yejzrin760
@@ -59,8 +59,8 @@ Your objectives for the day is to:
   - https://shereef.wistia.com/medias/xxj6323pk9
 - [ ] Read [Prototype in Plain English](http://javascriptissexy.com/javascript-prototype-in-plain-detailed-language/)
 - [ ] Read [OOP in Javascript](http://javascriptissexy.com/oop-in-javascript-what-you-need-to-know/)
-- [ ] Complete the [Prototype Chains][udacity] Lesson on Udacity
-- [ ] Complete the [Prototypal Classes][udacity] Lesson on Udacity
+- [x] Complete the [Prototype Chains][udacity] Lesson on Udacity
+- [x] Complete the [Prototypal Classes][udacity] Lesson on Udacity
 
 ### Stretch
 
@@ -72,12 +72,12 @@ Your objectives for the day is to:
 
 ## Day 4: Deeper Dive and Final Project
 
-- [ ] Complete the [Object Decorator Pattern][udacity] Lesson on Udacity
-- [ ] Complete the [Functional Classes][udacity] Lesson on Udacity
-- [ ] Complete the [Pseudoclassical Patterns][udacity] Lesson on Udacity
-- [ ] Complete the [Superclass and Subclass Patterns][udacity] Lesson on Udacity
+- [x] Complete the [Object Decorator Pattern][udacity] Lesson on Udacity
+- [x] Complete the [Functional Classes][udacity] Lesson on Udacity
+- [x] Complete the [Pseudoclassical Patterns][udacity] Lesson on Udacity
+- [x] Complete the [Superclass and Subclass Patterns][udacity] Lesson on Udacity
 - [ ] Complete the [Pseudoclassical Sublasses][udacity] Lesson on Udacity
-- [ ] Start (and maybe finish) the [Final Project][udacity] Lesson on Udacity
+- [x] Start (and maybe finish) the [Final Project][udacity] Lesson on Udacity
 
 ## Day 5: Final Project and check your understanding
 
